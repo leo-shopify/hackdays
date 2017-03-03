@@ -21,3 +21,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
+
+## Tutorial
+
+- Getting started with redux: https://egghead.io/courses/getting-started-with-redux
+- Practice: http://jsbin.com/mivafec/edit?js,console,output
